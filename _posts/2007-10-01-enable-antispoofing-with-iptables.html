@@ -1,0 +1,23 @@
+---
+layout: post
+title: Enable Antispoofing With Iptables
+tags:
+- networking
+status: publish
+type: post
+published: true
+meta:
+  delicious: a:3:{s:5:"count";i:1;s:9:"post_tags";s:0:"";s:4:"time";i:1213462125;}
+  reddit: a:2:{s:5:"count";i:0;s:4:"time";i:1213462124;}
+---
+<code>for i in /proc/sys/net/ipv4/*/rp_filter; do
+echo 1 &gt; $f
+done</code>
+
+Or simply
+
+<code>echo 1 &gt; /proc/sys/net/ipv4/*/rp_filter</code> (depends on your shell)
+
+This compares the source adress against the routing table
+
+More info about the ~50  options you can find at /usr/src/linux/Documentation/networking/ip-sysctl.txt
