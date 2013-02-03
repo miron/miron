@@ -1,0 +1,14 @@
+  : I often cached myself renaming a file in some other directory like this,                                                                                                         
+  : mv some/dir/some/file some/dir/some/file_renamed.                                                                                                                                                               
+  :                                                                                                                                                                                                                 
+  : But there is an easier way:                                                                                                                                                                                                                                                                                                                                                                                
+  : mv some/dir/some/{file,file_renamed}
+  : 
+  : This also works for copying:
+  : cp /etc/mail/{sendmail.cf,sendmail.cf.orig}
+  :
+  : Or vimdiff:
+  : vimdiff /etc/mail{sendmail.cf,sendmail.cf.orig}
+  : 
+  : And thats why I love zsh so much, you can even tabcomplete after the {, try that in bash f.e. :)
+  : Be creative, I'm sure there are many useful fields of application
