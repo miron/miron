@@ -271,8 +271,6 @@ a {
 
 .gist { 
   background: transparent url(../images/code.png) no-repeat 0 2px;
-  width: 30px;
-  height: 21px;
   display: block;
   opacity: 0.8;
   display: inline-block;
