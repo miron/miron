@@ -270,13 +270,13 @@ a {
 }
 
 .gist { 
-  background: transparent url(../images/code.png) no-repeat 0 2px;
-  display: block;
-  opacity: 0.8;
-  display: inline-block;
-  text-indent: -10000px;
-  -moz-opacity: 0.8;
-  filter:alpha(opacity=8);
-  -webkit-transition: opacity ease-in-out 0.3s;
+ background: #151515 url("../images/bkg.png") 0 0;
+ display: block;
+ opacity: 0.8;
+ display: inline-block;
+ text-indent: -10000px;
+ -moz-opacity: 0.8;
+ filter:alpha(opacity=8);
+ -webkit-transition: opacity ease-in-out 0.3s;
 		    }
 
