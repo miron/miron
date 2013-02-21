@@ -1,6 +1,9 @@
 #custom .gist .gist-file .gist-data {
         overflow:auto;
-        word-wrap:normal;
+        word-wrap:break-word;
+	-webkit-hyphens: auto;
+	-moz-hyphens: auto;
+        hyphens: auto;
         background-color:#111111; !important
         border-bottom:1px solid #ddd;
         font-size:100%;
