@@ -1,7 +1,7 @@
 .gist .gist-file .gist-data {
         overflow:auto;
         word-wrap:normal;
-        background-color:#111111;
+        background-color:#111111; !important
         border-bottom:1px solid #ddd;
         font-size:100%;
 }
