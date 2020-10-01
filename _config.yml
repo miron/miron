@@ -1,0 +1,8 @@
+title: Miron
+description: 
+google_analytics: UA-38340934-1
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
