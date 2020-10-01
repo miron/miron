@@ -3,7 +3,7 @@ description:
 google_analytics: UA-38340934-1
 show_downloads: true
   #theme: jekyll-theme-minimal
-theme: schwigri/mandala
+remote_theme: schwigri/mandala
 
 gems:
   - jekyll-mentions
