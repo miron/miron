@@ -1,2 +1,1 @@
-![Github stats](https://github-readme-stats.vercel.app/api?username=miron)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miron&layout=compact)](https://github.com/miron/github-readme-stats)
+https://instagram.fvie1-1.fna.fbcdn.net/v/t51.2885-15/e15/22071286_439158473147023_4361978402249375744_n.jpg?_nc_ht=instagram.fvie1-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=Q9J8EYaHMMsAX-E_RZv&_nc_tp=18&oh=a268f6e2fcb563bc6cb265cd221fcf78&oe=5F784A00
