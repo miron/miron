@@ -1,1 +1,1 @@
-![swan dive](docs/swandive.jpg)
+![swan dive](miron/../docs/swandive.jpg)
