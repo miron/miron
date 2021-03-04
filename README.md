@@ -1,1 +1,1 @@
-![swan dive](docs/blob/master/swandive.jpg?raw=true)
+![swan dive](docs/swandive.jpg)
