@@ -1,7 +1,7 @@
 
 - Mainly created small administrative scripts
-- Bash, Powershell, Ansible
-- Interested in building algorithmic trading bots netx
+- Used Bash, Vimscript, Perl, PHP, Powershell, Ansible, Ruby and Python for that
+- Interested in building algorithmic trading bots next
 
 
 ![swan dive](docs/swandive.jpg)
